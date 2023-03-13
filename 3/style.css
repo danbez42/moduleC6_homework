@@ -1,0 +1,15 @@
+.btn {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+
+}
+
+.btn-icon {
+    margin-left: 10px;
+}
+
+.hidden {
+    display: none;
+}
